@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo-secureit.png" alt="Logo" width="180" height="60">
+    <img src="images/LogoBlack.png" alt="Logo" width="180" height="60">
   </a>
 
   <h3 align="center">AI Survellience System</h3>
