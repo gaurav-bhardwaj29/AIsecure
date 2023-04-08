@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/gaurav-bhardwaj29/hackfest-2023/blob/main/images/LogoBlack.png">
     <img src="images/LogoBlack.png" alt="Logo" width="180" height="60">
   </a>
 
