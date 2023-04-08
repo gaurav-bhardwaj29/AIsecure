@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo-secureit.png" alt="Logo" width="180" height="60">
   </a>
 
-  <h3 align="center">SecureIT</h3>
+  <h3 align="center">AI Survellience System</h3>
 
   <p align="center">
-    AI Survellience System
+    Our project idea for Hackfest-2023
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the webpage »</strong></a>
     <br />
@@ -168,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- COLLABORATORS -->
-## Collaboratos
+## Collaborators
 
 Gaurav Bhardwaj - gaurav290802@gmail.com
 
