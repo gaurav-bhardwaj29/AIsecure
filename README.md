@@ -151,7 +151,7 @@ _Follow these steps to get the software running on the local machine._
 1. To develop a system to track and keep a record of potential threats which can be trespassers, robbers, and unwanted vehicles, with the flexibility to reproduce the data as and when required.
 2. Database of day-to-day college activities such as surveillance during exams, recording attendance, and using motion sensors to monitor behavioral changes of students in the class.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://docs.google.com/document/d/1XcVPuZtNlgOciWnKFhVgen0jyrjQSvizTLR5a5tBeHI/edit)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
