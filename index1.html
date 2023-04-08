@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Event Planner</title>
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+         <link rel="stylesheet" href="Home.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <style>
+        .background-image {
+          background-image: url('bg.png'); /* Replace 'example.jpg' with the path to your image */
+          background-size: scale(0.7);
+          overflow-x: hidden;
+          background-size: cover; /* Adjust to your preference */
+          background-repeat: no-repeat; /* Adjust to your preference */
+          width: 100%; /* Set width of div */
+          height: 900px; /* Set height of div */
+          /* background-position: right; */
+          left: 50px;
+          /* background-position: absolute; */
+          top:-50px;
+        }
+
+        .background-image2{
+            /* background-image: url('bottom.png');
+            background-size: 60%;
+            background-repeat: no-repeat;
+            background-position: bottom right; */
+            background-image: url('bottom.png'); /* Replace 'example.jpg' with the path to your image */
+          background-size: 120%;
+          overflow-x: hidden;
+       /* Adjust to your preference */
+          background-repeat: no-repeat; /* Adjust to your preference */
+          width:   0%; /* Set width of div */
+          height: 100px; /* Set height of div */
+          /* left: 50vb; */
+          background-position: right bottom;
+        }
+        .typewriter {
+    overflow: hidden; /* Hide overflow to create typewriter effect */
+    border-right: .15em solid #000; /* Add a cursor effect with a solid border */
+    white-space: nowrap; /* Prevent line breaks */
+    letter-spacing: .15em; /* Add spacing between letters for typewriter effect */
+    animation: typing 2s steps(40) infinite; /* Adjust duration, steps, and timing to your preference */
+  }
+  
+  /* Define the animation and keyframes */
+  @keyframes typing {
+    from {
+      width: 0; /* Start with 0 width to simulate typing effect */
+    }
+    to {
+      width: 25%; /* End with 100% width */
+    }
+  }
+    </style>
+
+  </head>
+  <body>
+
+    <!-- <nav id="scroll" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+    <a class="navbar-brand" href="#">HOME</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#aboutus">ABOUT US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contactus">CONTACT US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="SignIn.html">SIGN IN</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href = "SignUp.html">SIGN UP</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav> -->
+
+
+<section class = "background-image">
+    <img src = "logo.png" class = "logo">
+    <nav class="navbar">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#">Home</a></li>
+          <li class="nav-item"><a href="#aboutus">About</a></li>
+          <li class="nav-item"><a href="#services">Services</a></li>
+          <li class="nav-item"><a href="#contactus">Contact</a></li>
+        </ul>
+      </nav>
+      <section class="hero" style="white-space: nowrap;">
+        <h1 style="font-size: 48 px;">
+           Empowering <br>
+        </h1>
+        <h1 style="font-size: 48px;">
+            <font style="color: #7455E9"><b>Surveillance    </b></font>with</h1>
+            <h1 style="font-size: 48px;"><font style="color: #7455E9"><b>AI Technology</b></font></h1>
+        
+      </section>
+
+      <p class = "hero-para">
+        In today's digital world, security is paramount as data <br>breaches and cyber attacks pose risks to businesses<br> and individuals. Balancing security and privacy<br> is challenging, but crucial. Motion detection and facial<br> expression data are invaluable for various purposes, making their protection vital for maximizing<br> their potential. 
+      </p>
+      <span class = "login-btn">
+             <h3 class = "l-word">Login</h3>
+      </span>
+
+      <span class = "reg-btn">
+        <h3 class = "r-word">Register</h3>
+      </span>
+      
+
+      
+
+</section>
+<!-- <section id ="img" class= "background-image2">
+
+</section> -->
+
+    
+
+     <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
+
+     <div id = "about" class="container pt-2 pb-4 bdr"
+       <div class="jumbotron" id="aboutus">
+         <center><h1 id="aboutus" class ="typewriter">ABOUT US</h1></center>
+         <p class ="aboutpara">Our company is dedicated to leveraging the latest advancements in machine learning and computer vision to develop state-of-the-art security solutions for businesses, homes, and public spaces.</p>
+            <p class ="aboutpara">
+            As a team of highly skilled engineers and data scientists, we work tirelessly to create innovative products and services that are both effective and efficient. Our surveillance systems provide real-time monitoring and analysis of security footage, allowing users to detect and prevent potential security threats before they occur. Our motion sensing technologies use advanced algorithms to detect and analyze movement in a variety of environments, from crowded public spaces to remote industrial sites.</p>
+            <p class ="aboutpara">
+            At our company, we believe that everyone has the right to feel safe and secure, and we are committed to providing smart security solutions that meet the needs of a wide range of industries. Whether you're a small business owner looking to protect your property or a city planner working to improve public safety, our expertise and technology can help you achieve your goals.</p>
+            <p class ="aboutpara">
+            With a focus on innovation and excellence, we are poised to lead the way in the exciting and rapidly evolving field of AI surveillance and motion sensing. We are excited to continue pushing the boundaries of what's possible and to help create a safer, more secure world for all.</p>
+    
+        </div>
+      </div>
+
+      <div id = "about" class="container mt-5 pt-4 bdr">
+        <div class="jumbotron">
+            <center><h1 id="services" class ="typewriter">SERVICES</h1></center>
+
+         
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+         <div class="carousel-indicators">
+           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 3"></button>
+        </div>
+         <div class="carousel-inner">
+           <div class="carousel-item active">
+            <img src="https://static.vecteezy.com/system/resources/previews/002/520/681/non_2x/recognized-biometric-face-man-cartoon-free-vector.jpg" width="100" height = "500" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://img.freepik.com/premium-vector/motion-sensor-icon-comic-style-sensor-waves-with-man-vector-cartoon-illustration-pictogram-people-security-connection-business-concept-splash-effect_157943-6882.jpg?w=2000" width="100" height = "500" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://media.istockphoto.com/id/1185122589/vector/city-street-crossing-through-eyes-of-ai-computer-vision-surveillance-object-detection-system.jpg?s=612x612&w=0&k=20&c=FaFaRiT5hPiA1YnHCsZu_vlCYPmzFRSJU5Ba7GnJLlw=" width="100" height = "500" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://media.nature.com/lw1024/magazine-assets/d41586-019-01111-y/d41586-019-01111-y_16629004.jpg" width="100" height = "500" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://miro.medium.com/v2/resize:fit:1280/1*C9H_3I3v4voI0UzvQNuD0w.gif" width="100" height = "500" class="d-block w-100" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+       </div>
+          </div>
+        </div>
+  
+      <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
+      <!-- <div class="container pt-2 pb-4 bdr" >
+        <div class="jumbotron" id="contactus">
+          <center><h1 id="contactus">CONTACT US</h1></center>
+          <p><font color= "Blue"><b><center>FOR ANY QUERIES YOU CAN GET IN TOUCH WITH US<center></b></font></p>
+          <center><h3>ADDRESS</h3></center>
+          <p><center>CYBERLABS <br>STUDENT ACTIVITY CENTER , ROOM NO: 112<br>
+          Police Line Road, Main Campus IIT (ISM, near Rani Bandh, Hirapur, Sardar Patel Nagar, Dhanbad, Jharkhand 826004
+        </center></p>
+        <center><h3>PHONE</h3></center>
+        <p><center>MONDAY-SATURDAY<br>
+           10AM -6PM<br>
+        9163080XXX/7745623XXX</p>
+        <center><h3>EMAIL</h3></center>
+        <p><center>REPLIES WITHIN 24 HOURS<br>
+        cyberlabs@iitism.ac.in
+      </center></p>
+      <center><h3>INSTAGRAM</h3></center>
+      <p><center><a href="https://instagram.com/cyberlabs_iitism?igshid=YmMyMTA2M2Y=">cyberlabs_iitism</a><br>
+      </center></p>
+      <center><h3>LINKEDIN</h3></center>
+      <p><center><a href="https://www.linkedin.com/company/cyberlabs-iitism/">CyberLabs IITISM</a><br>
+    </center></p>
+    <center><h3>OUR WEBSITE</h3></center>
+    <p><center><a href="https://cyberlabs.club">CLICK HERE!!</a>
+  </center></p>
+
+
+         </div>
+       </div> -->
+    <!-- </div> -->
+    <div class="container pt-2 pb-4 bdr" >
+        <div class="jumbotron" id="contactus">
+     <section class = "addres">
+        <h1>Address</h1>
+     </section>
+
+
+
+            </div></div>
+    <footer>
+      All Rights Reserved
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+  </body>
+</html>
