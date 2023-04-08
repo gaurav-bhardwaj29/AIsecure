@@ -208,7 +208,7 @@ Website Link:
 [issues-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/issues
 [license-shield]: https://img.shields.io/github/license/gaurav-bhardwaj29/hackfest-2023.svg?style=for-the-badge
 [license-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/frontpage.jpeg
 [Python.org]: https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [OpenCV.org]: https://img.shields.io/badge/openCV-DD0031?style=for-the-badge&logo=openCV&logoColor=green
