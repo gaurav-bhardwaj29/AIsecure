@@ -25,10 +25,10 @@
   <p align="center">
     Our project idea for Hackfest-2023
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the webpage »</strong></a>
+    <a href="https://example.com/"><strong>Explore the webpage »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://example.com/">View Demo</a>
     ·
     <a href="https://github.com/gaurav-bhardwaj29/hackfest-2023/issues">Report Bug</a>
     ·
