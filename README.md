@@ -162,8 +162,6 @@ Aman Agarwal - 21je0080@iitism.ac.in
 
 Ananay Garg - ananaygarg777@gmail.com
 
-Deepak Maan - 21je0287@iitism.ac.in
-
 Project Link: https://github.com/gaurav-bhardwaj29/hackfest-2023
 
 Website Link: 
